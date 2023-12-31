@@ -3788,7 +3788,7 @@ Doc Type,نوع الوثيقة
 New Purchase Invoice,فاتورة شراء جديدة
 "Requested Qty: Quantity requested for purchase, but not ordered.","الكمية المطلوبة: الكمية المطلوبة للشراء ، ولكن لم يتم طلبها."
 Supplier Name,اسم المورد
-Please click on 'Generate Schedule' to fetch Serial No added for Item {0},يرجى النقر فوق &quot;إنشاء جدول&quot; لجلب الرقم المسلسل لم تتم إضافته للعنصر {0}
+Please click on 'Generate Schedule' to fetch Serial No added for Item {0},يرجى النقر فوق &quot;إنشاء جدول&quot; لجلب الرقم التسلسلي لم تتم إضافته للعنصر {0}
 Cost of Delivered Items,تكلفة العناصر المسلمة
 Consumed,مستهلك
 Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization.,الكيان القانوني / الشركة الفرعية مع مخطط حسابات منفصل خاص بالمنظمة.
@@ -4221,7 +4221,7 @@ Monthly Distribution Percentage,نسبة التوزيع الشهري
 Reconciliation JSON,المصالحة JSON
 No Item with Barcode {0},لا يوجد عنصر مع الرمز الشريطي {0}
 Scrapped,ألغت
-Delivery Trip,رحلة التسليم
+Delivery Trip,رحلة التوصيل
 Application Fee,رسم الإستمارة
 Sales orders are not available for production,أوامر المبيعات غير متوفرة للإنتاج
 Attribute,"صفة، عزا"
@@ -6256,7 +6256,7 @@ Fiscal Year {0} is required,السنة المالية {0} مطلوبة
 Employee Records to be created by,سجلات الموظفين المراد إنشاؤها بواسطة
 Depreciation Amount,قيمة الاستهلاك
 Gross Profit,اجمالي الربح
-Item Serial No,البند رقم المسلسل
+Item Serial No,البند الرقم التسلسلي
 Insurer,شركة التأمين
 Buying Amount,شراء المبلغ
 Certificate Required,الشهادة المطلوبة
@@ -7105,7 +7105,7 @@ Lab Technician,فني مختبر
 How Pricing Rule is applied?,كيف يتم تطبيق قاعدة التسعير؟
 Email Digest Settings,البريد الإلكتروني هضم الإعدادات
 Inter Company Journal Entry,بين دخول مجلة الشركة
-Create Delivery Trip,إنشاء رحلة التسليم
+Create Delivery Trip,إنشاء رحلة توصيل
 Row # {0}: Serial No {1} does not match with {2} {3},الصف # {0}: الرقم التسلسلي {1} لا يتطابق مع {2} {3}
 Sales Order required for Item {0},أمر المبيعات مطلوب للبند {0}
 Get Details From Declaration,الحصول على تفاصيل من الإعلان
@@ -8342,9 +8342,9 @@ Delivery Note,إشعار التسليم,
 Delivery Note {0} is not submitted,لم يتم اعتماد ملاحظه التسليم {0}\n<br>\nDelivery Note {0} is not submitted,
 Delivery Note {0} must not be submitted,ملاحظة التسليم {0} يجب ان تكون ارسلت\n<br>\nDelivery Note {0} must not be submitted,
 Delivery Notes {0} must be cancelled before cancelling this Sales Order,مذكرات التسليم {0} يجب أن يتم الغاؤها قبل الغاء أمر البيع هذا\n<br>\nDelivery Notes {0} must be cancelled before cancelling this Sales Order,
-Delivery Notes {0} updated,تم تعديل إشعار  التسليم {0},
-Delivery Status,حالة التسليم,
-Delivery Trip,رحلة التسليم,
+Delivery Notes {0} updated,تم تعديل إشعار  التوصيل {0},
+Delivery Status,حالة التوصيل,
+Delivery Trip,رحلة التوصيل
 Delivery warehouse required for stock item {0},مستودع التسليم مطلوب للبند المستودعي {0}\n<br>\nDelivery warehouse required for stock item {0},
 Department,قسم,
 Department Stores,متجر متعدد الاقسام,
@@ -8912,7 +8912,7 @@ Item {0} is disabled,تم تعطيل البند {0},
 Item {0} is not a serialized Item,البند {0} ليس بند لديه رقم تسلسلي,
 Item {0} is not a stock Item,العنصر {0} ليس عنصر مخزون\n<br>\nItem {0} is not a stock Item,
 Item {0} is not active or end of life has been reached,البند {0} غير نشط أو تم التوصل إلى نهاية الحياة,
-Item {0} is not setup for Serial Nos. Check Item master,البند {0} لم يتم إعداد الرقم المسلسل تحقق من العنصر الرئيسي\n<br>\nItem {0} is not setup for Serial Nos. Check Item master,
+Item {0} is not setup for Serial Nos. Check Item master,البند {0} لم يتم إعداد الرقم التسلسلي تحقق من العنصر الرئيسي\n<br>\nItem {0} is not setup for Serial Nos. Check Item master,
 Item {0} is not setup for Serial Nos. Column must be blank,البند {0} لا يتم إعداده للأرقام التسلسلية يجب أن يكون العمود فارغا\n<br>\nItem {0} is not setup for Serial Nos. Column must be blank,
 Item {0} must be a Fixed Asset Item,البند {0} يجب أن يكون بند أصول ثابتة,
 Item {0} must be a Sub-contracted Item,البند {0} يجب أن يكون عنصر التعاقد الفرعي,
@@ -10169,18 +10169,18 @@ Send mass SMS to your contacts,إرسال SMS الشامل لجهات الاتص
 Sensitivity,حساسية,
 Sent,أرسلت,
 Serial No and Batch,الرقم التسلسلي والدفعة,
-Serial No is mandatory for Item {0},رقم المسلسل إلزامي القطعة ل {0},
+Serial No is mandatory for Item {0},رقم التسلسلي إلزامي القطعة ل {0},
 Serial No {0} does not belong to Batch {1},المسلسل لا {0} لا ينتمي إلى الدفعة {1},
 Serial No {0} does not belong to Delivery Note {1},الرقم المتسلسل {0} لا ينتمي الى مذكرة تسليم {1}\n<br>\nSerial No {0} does not belong to Delivery Note {1},
 Serial No {0} does not belong to Item {1},الرقم المتسلسل {0} لا ينتمي إلى البند {1}\n<br>\nSerial No {0} does not belong to Item {1},
 Serial No {0} does not belong to Warehouse {1},الرقم المتسلسل {0} لا ينتمي إلى المستودع {1}\n<br>\nSerial No {0} does not belong to Warehouse {1},
 Serial No {0} does not belong to any Warehouse,الرقم المتسلسل {0} لا يرتبط باي المستودع\n<br>\nSerial No {0} does not belong to any Warehouse,
 Serial No {0} does not exist,الرقم المتسلسل {0} غير موجود\n<br>\nSerial No {0} does not exist,
-Serial No {0} has already been received,رقم المسلسل {0} وقد وردت بالفعل,
+Serial No {0} has already been received,رقم التسلسلي {0} قد ورد بالفعل,
 Serial No {0} is under maintenance contract upto {1},الرقم التسلسلي {0} يتبع عقد الصيانة حتى {1}\n<br>\nSerial No {0} is under maintenance contract upto {1},
 Serial No {0} is under warranty upto {1},الرقم التسلسلي {0} تحت الضمان حتى {1}\n<br>\nSerial No {0} is under warranty upto {1},
 Serial No {0} not found,لم يتم العثور علي الرقم التسلسلي {0}\n<br>\nSerial No {0} not found,
-Serial No {0} not in stock,رقم المسلسل {0} ليس في الأوراق المالية,
+Serial No {0} not in stock,رقم التسلسلي {0} ليس في الأوراق المالية,
 Serial No {0} quantity {1} cannot be a fraction,الرقم المتسلسل {0} الكمية {1} لا يمكن أن يكون كسر\n<br>\nSerial No {0} quantity {1} cannot be a fraction,
 Serial Nos Required for Serialized Item {0},الرقم التسلسلي المطلوب للعنصر المتسلسل {0}\n<br>\nSerial Nos Required for Serialized Item {0},
 Serial Number: {0} is already referenced in Sales Invoice: {1},الرقم التسلسلي: {0} تم الإشارة إليه من قبل في فاتورة المبيعات: {1},
@@ -10815,7 +10815,7 @@ Warning: Sales Order {0} already exists against Customer's Purchase Order {1},ت
 Warning: System will not check overbilling since amount for Item {0} in {1} is zero,Warning: System will not check overbilling since amount for Item {0} in {1} is zero\n<br>\nتحذير: لن يقوم النظام بالتحقق من الفوترة الزائدة لان المبلغ الخاص بالصنف {0} في {1} هو صفر,
 Warranty,الضمانة,
 Warranty Claim,مطالبة بالضمان,
-Warranty Claim against Serial No.,المطالبة الضمان ضد رقم المسلسل,
+Warranty Claim against Serial No.,المطالبة الضمان ضد رقم التسلسلي,
 Website,الموقع,
 Website Image should be a public file or website URL,موقع الويب يجب أن تكون الصورة ملفا عاما أو عنوان URL لموقع الويب\n<br>\nWebsite Image should be a public file or website URL,
 Website Image {0} attached to Item {1} cannot be found,صورة الموقع {0} المرفقة بالبند {1} لا يمكن العثور عليها\n<br>\nWebsite Image {0} attached to Item {1} cannot be found,
@@ -12600,8 +12600,8 @@ Item Tax Amount Included in Value,البند ضريبة المبلغ المدر�
 Landed Cost Voucher Amount,التكلفة هبطت قيمة قسيمة,
 Raw Materials Supplied Cost,المواد الخام الموردة التكلفة,
 Accepted Warehouse,مستودع مقبول,
-Serial No,رقم المسلسل,
-Rejected Serial No,رقم المسلسل رفض,
+Serial No,رقم التسلسلي,
+Rejected Serial No,الرقم التسلسلي المرفوض,
 Expense Head,عنوان المصروف,
 Is Fixed Asset,هو الأصول الثابتة,
 Asset Location,موقع الأصول,
@@ -15695,14 +15695,14 @@ Rename Attribute Value in Item Attribute.,إعادة تسمية سمة السم�
 Copy Fields to Variant,نسخ الحقول إلى متغير,
 Item Website Specification,مواصفات الموقع الإلكتروني للصنف,
 Table for Item that will be shown in Web Site,جدول السلعة الذي سيظهر في الموقع,
-Landed Cost Item,هبوط تكلفة صنف,
-Receipt Document Type,استلام نوع الوثيقة,
+Landed Cost Item,بند تكلفة الهبوط,
+Receipt Document Type,نوع مستند الاستلام,
 Receipt Document,وثيقة استلام,
 Applicable Charges,الرسوم المطبقة,
-Purchase Receipt Item,اصناف استلام الشراء,
+Purchase Receipt Item,عنصر إيصال الشراء,
 Landed Cost Purchase Receipt,تكاليف المشتريات المستلمة,
-Landed Cost Taxes and Charges,الضرائب التكلفة هبطت والرسوم,
-Landed Cost Voucher,هبطت التكلفة قسيمة,
+Landed Cost Taxes and Charges,ضرائب ورسوم تكاليف الهبوط,
+Landed Cost Voucher,قسيمة تكلفة الهبوط,
 MAT-LCV-.YYYY.-,MAT-LCV-.YYYY.-,
 Purchase Receipts,إيصالات شراء,
 Purchase Receipt Items,شراء قطع الإيصال,
@@ -15847,7 +15847,7 @@ Stock Entry Detail,تفاصيل ادخال المخزون,
 Basic Rate (as per Stock UOM),التسعير الاساسي استنادأ لوحدة القياس,
 Basic Amount,المبلغ الأساسي,
 Additional Cost,تكلفة إضافية,
-Serial No / Batch,رقم المسلسل / الدفعة,
+Serial No / Batch,رقم التسلسلي / الدفعة,
 BOM No. for a Finished Good Item,رقم فاتورة الموارد لغرض جيد,
 Material Request used to make this Stock Entry,طلب المواد المستخدمة لانشاء الحركة المخزنية,
 Subcontracted Item,البند من الباطن,
@@ -16100,11 +16100,11 @@ Sales Person Commission Summary,ملخص مندوب مبيعات الشخص,
 Sales Person Target Variance Based On Item Group,شخص المبيعات التباين المستهدف بناء على مجموعة البند,
 Sales Person-wise Transaction Summary,ملخص المبيعات بناء على رجل المبيعات,
 Sales Register,سجل مبيعات,
-Serial No Service Contract Expiry,مسلسل العقد لا انتهاء الاشتراك خدمة,
-Serial No Status,حالة رقم المسلسل,
-Serial No Warranty Expiry,المسلسل لا عودة انتهاء الاشتراك,
+Serial No Service Contract Expiry,انتهاء عقد خدمة الرقم التسلسلي,
+Serial No Status,حالة الرقم التسلسلي,
+Serial No Warranty Expiry,انتهاء ضمان الرقم التسلسلي,
 Stock Ageing,التبويب التاريخي للمخزن,
-Stock and Account Value Comparison,الأسهم وقيمة الحساب مقارنة,
+Stock and Account Value Comparison,مقارنة الأسهم وقيمة الحساب ,
 Stock Projected Qty,كمية المخزون المتوقعة,
 Student and Guardian Contact Details,طالب والجارديان تفاصيل الاتصال,
 Student Batch-Wise Attendance,طالب دفعة حكيم الحضور,
@@ -16954,7 +16954,7 @@ Import Italian Supplier Invoice.,فاتورة استيراد المورد الإ
 Create an incoming stock transaction for the Item.,قم بإنشاء حركة مخزون واردة للصنف.,
 Mention Valuation Rate in the Item master.,اذكر معدل التقييم في مدير السلعة.,
 Valuation Rate Missing,معدل التقييم مفقود,
-Serial Nos Required,الرقم المسلسل مطلوب,
+Serial Nos Required,الرقم التسلسلي مطلوب,
 Quantity Mismatch,عدم تطابق الكمية,
 "Please Restock Items and Update the Pick List to continue. To discontinue, cancel the Pick List.",يرجى إعادة تخزين العناصر وتحديث قائمة الاختيار للمتابعة. للتوقف ، قم بإلغاء قائمة الاختيار.,
 Out of Stock,إنتهى من المخزن,
@@ -17372,3 +17372,11 @@ Creating Purchase Order ...,إنشاء أمر شراء ...,
 "Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only.",حدد موردًا من الموردين الافتراضيين للعناصر أدناه. عند التحديد ، سيتم إجراء طلب الشراء مقابل العناصر التي تنتمي إلى المورد المحدد فقط.,
 Row #{}: You must select {} serial numbers for item {}.,الصف # {}: يجب تحديد {} الأرقام التسلسلية للعنصر {}.,
 Quick Access, الوصول السريع
+Masters & Reports, الادارة والتقارير
+Unit of Measure (UOM), وحدات القياس
+Incorrect Data Report, تقارير البيانات الغير صحيحة
+Warehouse wise Stock Value,قيمة مخزون المستودعات
+Available,متوفر
+Pending,معلق
+To Bill, للفوترة
+Incorrect Serial No. Qty and Valuation,الرقم التسلسلي غير صحيح. الكمية والتقييم
