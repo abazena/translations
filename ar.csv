@@ -6864,7 +6864,7 @@ Account,الحساب
 To Deliver,لكى توصل
 Customers Without Any Sales Transactions,العملاء دون أي معاملات البيع
 Against Document No,ضد الوثيقة رقم
-Content Masters,الماجستير المحتوى
+Content Masters,الادارة المحتوى
 Subscription Management,إدارة الاشتراك
 Get customers from,احصل على عملاء من
 {0} Digest,{0} دايجست
@@ -6992,7 +6992,7 @@ Packed Item,معبأة البند
 Submitting Salary Slips...,تقديم قسائم الرواتب ...
 No Action,لا رد فعل
 "Budget cannot be assigned against {0}, as it's not an Income or Expense account","لا يمكن تعيين الميزانية مقابل {0} ، لأنها ليست حساب دخل أو مصروفات"
-Masters and Accounts,الماجستير والحسابات
+Masters and Accounts,الادارة والحسابات
 Responsible Individual,الفرد المسؤول
 Total Weightage of all Assessment Criteria must be 100%,يجب أن يكون إجمالي وزن جميع معايير التقييم 100٪
 An error occurred during the update process,حدث خطأ أثناء عملية التحديث
@@ -8134,7 +8134,7 @@ Contact Details,تفاصيل الاتصال,
 Contact Number,رقم جهة الإتصال,
 Contact Us,اتصل بنا,
 Content,محتوى,
-Content Masters,الماجستير المحتوى,
+Content Masters,الادارة المحتوى,
 Content Type,نوع المحتوى,
 Continue Configuration,متابعة التكوين,
 Contract,عقد,
@@ -11111,7 +11111,7 @@ Account: <b>{0}</b> is capital Work in progress and can not be updated by Journa
 Account: {0} is not permitted under Payment Entry,الحساب: {0} غير مسموح به بموجب إدخال الدفع,
 Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,البعد المحاسبي <b>{0}</b> مطلوب لحساب &quot;الميزانية العمومية&quot; {1}.,
 Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,البعد المحاسبي <b>{0}</b> مطلوب لحساب &quot;الربح والخسارة&quot; {1}.,
-Accounting Masters,الماجستير المحاسبة,
+Accounting Masters,الادارة المحاسبة,
 Accounting Period overlaps with {0},فترة المحاسبة تتداخل مع {0},
 Activity,نشاط,
 Add / Manage Email Accounts.,إضافة / إدارة حسابات البريد الإلكتروني.,
