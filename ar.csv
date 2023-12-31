@@ -13970,7 +13970,7 @@ Salary Slip,كشف الراتب,
 Salary Component Type,نوع مكون الراتب,
 HR User,مستخدم الموارد البشرية,
 Appointment Letter,رسالة موعد,
-Job Applicant,'طلب الوظيفة,
+Job Applicant,المتقدمين للوظيفة
 Applicant Name,اسم طالب الوظيفة,
 Appointment Date,تاريخ الموعد,
 Appointment Letter Template,قالب رسالة التعيين,
@@ -17371,7 +17371,7 @@ Enable European Access,تمكين الوصول الأوروبي,
 Creating Purchase Order ...,إنشاء أمر شراء ...,
 "Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only.",حدد موردًا من الموردين الافتراضيين للعناصر أدناه. عند التحديد ، سيتم إجراء طلب الشراء مقابل العناصر التي تنتمي إلى المورد المحدد فقط.,
 Row #{}: You must select {} serial numbers for item {}.,الصف # {}: يجب تحديد {} الأرقام التسلسلية للعنصر {}.,
-Quick Access, الوصول السريع
+Quick Access, اختصاراتك
 Masters & Reports, الادارة والتقارير
 Unit of Measure (UOM), وحدات القياس
 Incorrect Data Report, تقارير البيانات الغير صحيحة
