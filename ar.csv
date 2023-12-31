@@ -4647,7 +4647,7 @@ View Task,عرض المهمة
 Purchase / Manufacture Details,شراء / تصنيع التفاصيل
 Book Asset Depreciation Entry Automatically,سجل دخول انخفاض قيمة الأصول تلقائيًا
 Operation completed for how many finished goods?,الانتهاء من عملية لعدد من السلع تامة الصنع؟
-Employee name and designation in print,اسم الموظف والتعيين في الطباعة
+Employee name and designation in print,اسم الموظف والمسمى الوظيفي في الطباعة
 Is Day Book Data Processed,يتم معالجة بيانات دفتر اليوم
 Courses,الدورات
 Update stock must be enable for the purchase invoice {0},يجب تمكين تحديث الأسهم لفاتورة الشراء {0}
@@ -5183,7 +5183,7 @@ Receipt document must be submitted,يجب تقديم مستند الإيصال
 Employee Advance Summary,ملخص الموظف مقدما
 Detailed Reason,سبب مفصل
 Low Sensitivity,حساسية منخفضة
-Applicable To (Designation),ينطبق على (التعيين)
+Applicable To (Designation),ينطبق على (المسمى الوظيفي)
 Billing City,مدينة الفواتير
 Is Customer Provided Item,هو البند المقدمة العملاء
 Purchase Taxes and Charges Template,ضرائب الشراء ورسوم قالب
@@ -5247,7 +5247,7 @@ Cancel At End Of Period,الغاء في نهاية الفترة
 Healthcare Service Unit Tree,تفرع وحدة الخدمات الصحية
 Bundle items at time of sale.,البنود حزمة في وقت البيع.
 Allocated Amount,المبلغ المخصص
-Please select Company and Designation,يرجى اختيار الشركة والتعيين
+Please select Company and Designation,يرجى اختيار الشركة والمسمى الوظيفي
 Bank Credit Balance,رصيد رصيد البنك
 Show Cumulative Amount,عرض المبلغ التراكمي
 You don't have enought Loyalty Points to redeem,ليس لديك نقاط ولاء كافية لاستردادها
@@ -5537,7 +5537,7 @@ Companies,الشركات
 Minutes to First Response for Opportunity,دقائق إلى الاستجابة الأولى للفرصة
 Hotel Room Amenity,غرفة فندق الراحة
 Invoices for Costumers.,فواتير العملاء.
-No Staffing Plans found for this Designation,لم يتم العثور على خطط التوظيف لهذا التعيين
+No Staffing Plans found for this Designation,لم يتم العثور على خطط التوظيف لهذا المسمى الوظيفي
 Current BOM,BOM الحالي
 Casual Leave,مغادرة عادية
 Cost Updated,تم تحديث التكلفة
@@ -6410,7 +6410,7 @@ Supplier Group master.,مجموعة المورد الرئيسي.
 A customer with the same name already exists,يوجد بالفعل عميل يحمل نفس الاسم
 Program Enrollment,تسجيل البرنامج
 "Job Openings for designation {0} already open \
-					or hiring completed as per Staffing Plan {1}",فرص العمل للتعيين {0} مفتوحة بالفعل \ أو تم الانتهاء من التوظيف وفقا لخطة التوظيف {1}
+					or hiring completed as per Staffing Plan {1}",فرص العمل للمسمى الوظيفي {0} مفتوحة بالفعل \ أو تم الانتهاء من التوظيف وفقا لخطة التوظيف {1}
 Authorized Signatory,المفوض بالتوقيع
 Discount on Other Item,خصم على بند آخر
 Quot Count,عدد الاقتباس
@@ -11236,7 +11236,7 @@ Delivered Quantity,كمية تسليمها,
 Delivery Notes,مذكرات التسليم,
 Depreciated Amount,المبلغ المستهلك,
 Description,وصف,
-Designation,تعيين,
+Designation,المسمى الوظيفي,
 Difference Value,قيمة الفرق,
 Dimension Filter,مرشح البعد,
 Disabled,معطل,
@@ -13767,7 +13767,7 @@ Create Lab Test(s) on Sales Invoice Submission,إنشاء اختبار (اختب
 Checking this will create Lab Test(s) specified in the Sales Invoice on submission.,سيؤدي التحقق من ذلك إلى إنشاء اختبار (اختبارات) معمل محدد في فاتورة المبيعات عند التقديم.,
 Create Sample Collection document for Lab Test,إنشاء مستند جمع العينات للاختبار المعملي,
 Checking this will create a Sample Collection document  every time you create a Lab Test,سيؤدي التحقق من ذلك إلى إنشاء مستند جمع العينات في كل مرة تقوم فيها بإنشاء اختبار معمل,
-Employee name and designation in print,اسم الموظف وتعيينه في الطباعة,
+Employee name and designation in print,اسم الموظف والمسمى الوظيفي في الطباعة,
 Check this if you want the Name and Designation of the Employee associated with the User who submits the document to be printed in the Lab Test Report.,حدد هذا الخيار إذا كنت تريد طباعة اسم وتعيين الموظف المرتبط بالمستخدم الذي يرسل المستند في تقرير الاختبار المعملي.,
 Do not print or email Lab Tests without Approval,لا تطبع الاختبارات المعملية أو ترسلها بالبريد الإلكتروني بدون موافقة,
 Checking this will restrict printing and emailing of Lab Test documents unless they have the status as Approved.,سيؤدي التحقق من ذلك إلى تقييد طباعة مستندات الاختبار المعملي وإرسالها بالبريد الإلكتروني ما لم تكن في حالة الموافقة.,
@@ -13970,7 +13970,7 @@ Salary Slip,كشف الراتب,
 Salary Component Type,نوع مكون الراتب,
 HR User,مستخدم الموارد البشرية,
 Appointment Letter,رسالة موعد,
-Job Applicant,طالب الوظيفة,
+Job Applicant,'طلب الوظيفة,
 Applicant Name,اسم طالب الوظيفة,
 Appointment Date,تاريخ الموعد,
 Appointment Letter Template,قالب رسالة التعيين,
@@ -14323,7 +14323,7 @@ Select Employees,حدد الموظفين,
 Employment Type (optional),نوع التوظيف (اختياري),
 Branch (optional),فرع (اختياري),
 Department (optional),قسم (اختياري),
-Designation (optional),التعيين (اختياري),
+Designation (optional),التسمية (اختياري),
 Employee Grade (optional),درجة الموظف (اختياري),
 Employee (optional),موظف (اختياري),
 Allocate Leaves,تخصيص الأوراق,
