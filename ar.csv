@@ -16016,7 +16016,7 @@ Employee Billing Summary,ملخص فواتير الموظفين,
 Employee Birthday,عيد ميلاد موظف,
 Employee Information,معلومات الموظف,
 Employee Leave Balance,رصيد اجازات الموظف,
-Employee Leave Balance Summary,الموظف إجازة ملخص الرصيد,
+Employee Leave Balance Summary,ملخص رصيد إجازة الموظف,
 Employees working on a holiday,الموظفون يعملون في يوم العطلة,
 Eway Bill,Eway بيل,
 Expiring Memberships,عضوية منتهية الصلاحية,
@@ -17384,3 +17384,12 @@ Outgoing Salary,الراتب الصادر
 Grievance Type,نوع التظلم
 Employee Grievance,شكوى الموظف
 Onboarding,تسجيل
+Build,البناء
+Search or type a command (Ctrl + G), ابحث او اضغط علي امر
+About, حول
+My Profile, حسابي
+My Settings, الاعدادات
+Toggle Theme, تبديل الشكل
+Toggle Full Width, تبديل الشاشة
+Leave policy assignment,سياسة الاجازات
+Employees Working on a Holiday,الموظفين الذين يعملون في أيام العطل
