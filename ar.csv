@@ -364,7 +364,7 @@ Please enter Planned Qty for Item {0} at row {1},الرجاء إدخال الك�
 Select Batch,اختر دفعة
 Item Description,وصف السلعة
 Account Name,أسم الحساب
-Please enter API Consumer Key,الرجاء إدخال مفتاح عميل API
+Please enter API Consumer Key,الرجاء إدخال مفتاح عميل الواجههة البرمجية
 Products per Page,المنتجات لكل صفحة
 Duplicate {0} found in the table,مكرر {0} موجود في الجدول
 Default Distance Unit,وحدة المسافة الافتراضية
@@ -2200,7 +2200,7 @@ Actual Date,التاريخ الفعلي
 Maintenance start date can not be before delivery date for Serial No {0},لا يمكن أن يكون تاريخ بدء الصيانة قبل تاريخ التسليم للمسلسل رقم {0}
 Row {0}: Exchange Rate is mandatory,الصف {0}: سعر الصرف إلزامي
 Select Supplier Address,اختر عنوان المورد
-Please enter API Consumer Secret,الرجاء إدخال سر عميل API
+Please enter API Consumer Secret,الرجاء إدخال سر عميل الواجههة البرمجية
 Program Enrollment Fee,رسوم التسجيل في البرنامج
 Warranty Expiry Date,تاريخ انتهاء الضمان
 Hotel Room Pricing,غرفة فندق التسعير
@@ -6448,7 +6448,7 @@ Item Weight Details,تفاصيل وزن السلعة
 Modes of Payment,طرق الدفع
 Series List for this Transaction,قائمة سلسلة لهذه الصفقة
 Produce,إنتاج
-API consumer key,مفتاح عميل API
+API consumer key,مفتاح عميل الواجهات البرمجية
 Reading 2,قراءة 2
 Driving License Categories,فئات رخصة القيادة
 Asset Repair,إصلاح الأصول
@@ -7557,7 +7557,7 @@ A question must have more than one options,يجب أن يكون للسؤال أ�
 A qustion must have at least one correct options,يجب أن يحتوي qustion على خيارات صحيحة واحدة على الأقل,
 A {0} exists between {1} and {2} (,{0} موجود بين {1} و {2} (,
 A4,A4,
-API Endpoint,نقطة وصولAPI,
+API Endpoint,نقطة وصولا الواجهات البرمجية,
 API Key,مفتاح API,
 Abbr can not be blank or space,الاسم المختصر لا يمكن أن يكون فارغاً او به مسافة,
 Abbreviation already used for another company,الاختصار يستخدم بالفعل لشركة أخرى\n<br>\nAbbreviation already used for another company,
@@ -11582,7 +11582,7 @@ Set Meta Tags,تعيين العلامات الفوقية,
 Set {0} in company {1},قم بتعيين {0} في الشركة {1},
 Setup,الإعدادات,
 Setup Wizard,معالج الإعدادات,
-Shift Management,إدارة التحول,
+Shift Management,إدارة الورديات,
 Show Future Payments,إظهار المدفوعات المستقبلية,
 Show Linked Delivery Notes,إظهار ملاحظات التسليم المرتبطة,
 Show Sales Person,عرض شخص المبيعات,
@@ -12318,7 +12318,7 @@ If Income or Expense,إذا دخل أو مصروف,
 Exchange Rate,سعر الصرف,
 Debit in Company Currency,الخصم في الشركة العملات,
 Credit in Company Currency,المدين في عملة الشركة,
-Payroll Entry,دخول الرواتب,
+Payroll Entry,كشوف المرتبات
 Employee Advance,تقدم الموظف,
 Reference Due Date,تاريخ الاستحقاق المرجعي,
 Loyalty Program Tier,مستوى برنامج الولاء,
@@ -14135,10 +14135,10 @@ Log Type,نوع السجل,
 OUT,خارج,
 Location / Device ID,الموقع / معرف الجهاز,
 Skip Auto Attendance,تخطي الحضور التلقائي,
-Shift Start,تحول البداية,
-Shift End,التحول نهاية,
-Shift Actual Start,التحول الفعلي البداية,
-Shift Actual End,التحول نهاية الفعلية,
+Shift Start, بداية الوردية,
+Shift End, نهاية الوردية,
+Shift Actual Start,الوقت الفعلي لبداية الوردية
+Shift Actual End,الوقت الفعلي لنهاية الوردية
 Employee Education,المستوى التعليمي للموظف,
 School/University,مدرسة / جامعة,
 Graduate,التخرج,
@@ -14160,7 +14160,7 @@ Incentive Amount,مبلغ الحافز,
 Employee Internal Work History,سجل عمل الموظف داخل الشركة,
 Employee Onboarding,اعداد الموظف,
 Notify users by email,أبلغ المستخدمين عن طريق البريد الإلكتروني,
-Employee Onboarding Template,قالب Onboarding الموظف,
+Employee Onboarding Template,قالب تجهيز الموظف,
 Activities,أنشطة,
 Employee Onboarding Activity,نشاط Onboarding الموظف,
 Employee Other Income,دخل الموظف الآخر,
@@ -14431,9 +14431,9 @@ Max Benefits (Amount),أقصى الفوائد (المبلغ),
 Salary breakup based on Earning and Deduction.,تقسيم الراتب بناءَ على الكسب والاستقطاع.,
 Total Earning,إجمالي الدخل,
 Salary Structure Assignment,تعيين هيكل الراتب,
-Shift Assignment,مهمة التحول,
-Shift Type,نوع التحول,
-Shift Request,طلب التغيير,
+Shift Assignment,تكليف الورديات
+Shift Type,نوع الوردية,
+Shift Request,طلب وردية,
 Enable Auto Attendance,تمكين الحضور التلقائي,
 Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.,حدد الحضور استنادًا إلى &quot;فحص الموظف&quot; للموظفين المعينين لهذا التحول.,
 Auto Attendance Settings,إعدادات الحضور التلقائي,
@@ -17393,3 +17393,22 @@ Toggle Theme, تبديل الشكل
 Toggle Full Width, تبديل الشاشة
 Leave policy assignment,سياسة الاجازات
 Employees Working on a Holiday,الموظفين الذين يعملون في أيام العطل
+Interview Type,نوع المقابلة
+Interview Round,جولة المقابلة
+Interview,مقابلة
+Interview Feedback,ردود الفعل على المقابلة
+Taxation,الضرائب
+Compensations,التعويضات
+Create Payroll Period,إنشاء فترة الرواتب
+Create Salary Component,إنشاء مكون الراتب
+Create Income Tax Slab,إنشاء لوح ضريبة الدخل
+Create Salary Structure,إنشاء هيكل الرواتب
+Let's Set Up the Payroll Module.,دعونا نقوم بإعداد وحدة كشوف المرتبات.
+Overview,ملخص
+Monthly Rank,تصنيف الشهري
+Rank, تصنيف
+No activities to show,لا توجد أنشطة لعرضها
+Connections,روابط
+Basic Info,معلومات أساسية
+First Day of the Week,اول يوم من الاسبوع
+Disable Document Sharing,تعطيل مشاركة المستندات
