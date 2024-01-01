@@ -1250,7 +1250,7 @@ Send Payment Request,إرسال طلب الدفع
 {0} is not added in the table,{0} لم تتم إضافته في الجدول
 Create Student,خلق طالب
 Gantt chart of all tasks.,مخطط جانت لجميع المهام.
-Leave Approvers,الموافقون الإجازة
+Leave Approvers,معتمدين الإجازة
 Materials Required (Exploded),المواد المطلوبة (انفجرت)
 Repay Over Number of Periods,سداد أكثر من عدد الفترات
 Receivable,ذمم مدينة
@@ -1381,7 +1381,7 @@ Basic,الأساسية
 Interest Income Account,حساب دخل الفوائد
 A condition for a Shipping Rule,شرط لقاعدة الشحن
 Payroll Period Date,تاريخ فترة الرواتب
-Employment Type,نوع الوظيفة
+Employment Type,نوع العقد
 Select POS Profile,حدد POS Profile
 Get Latest Query,الحصول على أحدث الاستعلام
 Employee Incentive,حافز الموظف
@@ -8430,7 +8430,7 @@ ERPNext Settings,إعدادات ERPNext,
 Earliest,أولا,
 Earnest Money,العربون,
 Earning,مستحق,
-Edit,تصحيح,
+Edit,تعديل,
 Edit Publishing Details,تحرير تفاصيل النشر,
 "Edit in full page for more options like assets, serial nos, batches etc.",يمكنك التعديل في الصفحة الكاملة للحصول على مزيد من الخيارات مثل مواد العرض، والرقم التسلسلي، والدفقات، إلخ.,
 Education,التعليم,
@@ -8576,7 +8576,7 @@ Finished Good Item Code,انتهى رمز السلعة جيدة,
 Finished Goods,السلع تامة الصنع,
 Finished Item {0} must be entered for Manufacture type entry,غير مسموح بنقل أكثر {0} من {1} ضد أمر الشراء {2}<br>\nFinished Item {0} must be entered for Manufacture type entry,
 Finished product quantity <b>{0}</b> and For Quantity <b>{1}</b> cannot be different,لا يمكن أن تكون كمية المنتج النهائي <b>{0}</b> و For Quantity <b>{1}</b> مختلفة,
-First Name,الاسم الأول,
+First Name,الاسم,
 "Fiscal Regime is mandatory, kindly set the fiscal regime in the company {0}",النظام المالي إلزامي ، يرجى تعيين النظام المالي في الشركة {0},
 Fiscal Year,السنة المالية,
 Fiscal Year End Date should be one year after Fiscal Year Start Date,يجب أن يكون تاريخ انتهاء السنة المالية بعد سنة واحدة من تاريخ بدء السنة المالية,
@@ -8952,7 +8952,7 @@ Language Name,اسم اللغة,
 Large,كبير,
 Last Communication,آخر الاتصالات,
 Last Communication Date,تاريخ الاتصال الأخير,
-Last Name,اسم العائلة,
+Last Name,اسم الجد,
 Last Order Amount,قيمة آخر طلب,
 Last Order Date,تاريخ أخر أمر بيع,
 Last Purchase Price,سعر الشراء الأخير,
@@ -9125,8 +9125,8 @@ Message Examples,أمثلة رسالة,
 Message Sent,تم ارسال الرسالة,
 Method,طريقة,
 Middle Income,الدخل المتوسط,
-Middle Name,الاسم الأوسط,
-Middle Name (Optional),الاسم الأوسط (اختياري),
+Middle Name,الاسم الاب,
+Middle Name (Optional),اسم الاب (اختياري),
 Min Amt can not be greater than Max Amt,مين آمت لا يمكن أن يكون أكبر من ماكس آمت,
 Min Qty can not be greater than Max Qty,الكمية الادنى لايمكن ان تكون اكبر من الكمية الاعلى,
 Minimum Lead Age (Days),الحد الأدنى لعمر الزبون المحتمل (أيام),
@@ -14040,7 +14040,7 @@ Driving License Category,رخصة قيادة الفئة,
 Fleet Manager,مدير قافلة المركبات,
 Driver licence class,فئة رخصة القيادة,
 HR-EMP-,HR-EMP-,
-Employment Type,نوع الوظيفة,
+Employment Type,نوع العقد,
 Emergency Contact,الاتصال في حالات الطوارئ,
 Emergency Contact Name,الطوارئ اسم الاتصال,
 Emergency Phone,هاتف حالات الطوارئ,
@@ -14054,8 +14054,8 @@ Confirmation Date,تاريخ التأكيد,
 Contract End Date,تاريخ نهاية العقد,
 Notice (days),إشعار (أيام),
 Date Of Retirement,تاريخ التقاعد,
-Department and Grade,قسم والصف,
-Reports to,إرسال التقارير إلى,
+Department and Grade,القسم والدرجة
+Reports to,المدير المباشر,
 Attendance and Leave Details,تفاصيل الحضور والإجازة,
 Leave Policy,سياسة الإجازة,
 Attendance Device ID (Biometric/RF tag ID),معرف جهاز الحضور (معرف بطاقة الهوية / RF),
@@ -14086,7 +14086,7 @@ Date of Issue,تاريخ الإصدار,
 Place of Issue,مكان الإصدار,
 Widowed,ارمل,
 Family Background,معلومات عن العائلة,
-"Here you can maintain family details like name and occupation of parent, spouse and children",هنا يمكنك إدراج تفاصيل عائلية مثل اسم العائلة ومهنة الزوج، الوالدين والأطفال,
+"Here you can maintain family details like name and occupation of parent, spouse and children",هنا يمكنك إدراج تفاصيل عائلية مثل اسم الجد ومهنة الزوج، الوالدين والأطفال,
 Health Details,تفاصيل الحالة الصحية,
 "Here you can maintain height, weight, allergies, medical concerns etc",هنا يمكنك ادراج تفاصيل عن الحالة الصحية مثل الطول والوزن، الحساسية، المخاوف الطبية,
 Educational Qualification,المؤهلات العلمية,
@@ -16523,7 +16523,7 @@ HLC-VTS-.YYYY.-,HLC-VTS-.YYYY.-,
 In Time,في الوقت المناسب,
 Out Time,وقت خروج,
 Payroll Cost Center,مركز تكلفة الرواتب,
-Approvers,الموافقون,
+Approvers,الاعتمادات,
 The first Approver in the list will be set as the default Approver.,سيتم تعيين الموافق الأول في القائمة باعتباره الموافق الافتراضي.,
 Shift Request Approver,الموافق على طلب التحول,
 PAN Number,رقم PAN,
@@ -16863,7 +16863,7 @@ Job Offer: {0} is already for Job Applicant: {1},عرض الوظيفة: {0} مق
 Only Shift Request with status 'Approved' and 'Rejected' can be submitted,يمكن فقط تقديم طلب التحول بالحالة &quot;موافق عليه&quot; و &quot;مرفوض&quot;,
 Shift Assignment: {0} created for Employee: {1},واجب التحول: {0} تم إنشاؤه للموظف: {1},
 You can not request for your Default Shift: {0},لا يمكنك طلب التحول الافتراضي الخاص بك: {0},
-Only Approvers can Approve this Request.,الموافقون فقط هم من يمكنهم الموافقة على هذا الطلب.,
+Only Approvers can Approve this Request.,المدراء فقط هم من يمكنهم الموافقة على هذا الطلب.,
 Asset Value Analytics,تحليلات قيمة الأصول,
 Category-wise Asset Value,قيمة الأصول حسب الفئة,
 Total Assets,إجمالي الأصول,
