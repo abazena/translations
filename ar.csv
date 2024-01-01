@@ -6835,7 +6835,7 @@ All Departments,جميع الإدارات
 Make project from a template.,جعل المشروع من قالب.
 Inter Company Order Reference,مرجع طلب شركة Inter
 Work Order {0} must be cancelled before cancelling this Sales Order,يجب إلغاء أمر العمل {0} قبل إلغاء أمر المبيعات هذا
-Employee Number,رقم الموظف
+Employee Number,الرقم الوضيفي
 Avg. Buying Rate,متوسط معدل شراء
 Capacity Planning For (Days),تخطيط السعة لـ (أيام)
 From value must be less than to value in row {0},من القيمة يجب أن تكون أقل من القيمة في الصف {0}
@@ -7563,8 +7563,8 @@ Abbr can not be blank or space,الاسم المختصر لا يمكن أن يك
 Abbreviation already used for another company,الاختصار يستخدم بالفعل لشركة أخرى\n<br>\nAbbreviation already used for another company,
 Abbreviation cannot have more than 5 characters,الاختصارات لا يمكن أن تكون أكثر من 5 حروف\n<br>\nAbbreviation cannot have more than 5 characters,
 Abbreviation is mandatory,الاسم المختصر إلزامي,
-About the Company,عن الشركة,
-About your company,عن شركتك,
+About the Company,عن الوزارة,
+About your company,عن وزارتك,
 Above,فوق,
 Absent,غائب,
 Academic Term,الفصل الأكاديمي,
@@ -7624,7 +7624,7 @@ Accumulated Depreciation Amount,قيمة الاستهلاك المتراكمة,
 Accumulated Depreciation as on,الاستهلاك المتراكم كما في,
 Accumulated Monthly,متراكمة شهريا,
 Accumulated Values,القيم المتراكمة,
-Accumulated Values in Group Company,القيم المتراكمة في مجموعة الشركة,
+Accumulated Values in Group Company,القيم المتراكمة في مجموعة الوزارة,
 Achieved ({}),حقق ({}),
 Action,حدث,
 Action Initialised,العمل مهيأ,
@@ -8099,12 +8099,12 @@ Commission on Sales,عمولة على المبيعات,
 Commission rate cannot be greater than 100,لا يمكن أن تكون نسبة العمولة أكبر من 100,
 Community Forum,منتديات,
 Company (not Customer or Supplier) master.,ماستر الشركة (ليس زبون أو مورد).,
-Company Abbreviation,اختصار الشركة,
+Company Abbreviation,اختصار الوزارة,
 Company Abbreviation cannot have more than 5 characters,لا يمكن أن يحتوي اختصار الشركة على أكثر من 5 أحرف,
-Company Name,اسم الشركة,
-Company Name cannot be Company,اسم الشركة لا يمكن أن تكون شركة,
+Company Name,اسم الوزارة,
+Company Name cannot be Company,اسم الوزارة لا يمكن أن تكون الوزارة,
 Company currencies of both the companies should match for Inter Company Transactions.,يجب أن تتطابق عملات الشركة لكلتا الشركتين مع معاملات Inter Inter Company.,
-Company is manadatory for company account,الشركة هي manadatory لحساب الشركة,
+Company is manadatory for company account,الوزارة هي manadatory لحساب الوزارة,
 Company name not same,اسم الشركة ليس مماثل\n<br>\nCompany name not same,
 Company {0} does not exist,الشركة {0} غير موجودة,
 Compensatory Off,تعويض,
@@ -8542,7 +8542,7 @@ Failed,باءت بالفشل,
 Failed to create website,فشل في إنشاء الموقع الالكتروني,
 Failed to install presets,فشل في تثبيت الإعدادات المسبقة,
 Failed to login,فشل في تسجيل الدخول,
-Failed to setup company,أخفق إعداد الشركة,
+Failed to setup company,أخفق إعداد الوزارة,
 Failed to setup defaults,فشل في إعداد الإعدادات الافتراضية,
 Failed to setup post company fixtures,فشل في إعداد تركيبات الشركة بعد,
 Fax,فاكس,
@@ -9536,13 +9536,13 @@ Please identify/create Account (Group) for type - {0},يرجى تحديد / إن
 Please identify/create Account (Ledger) for type - {0},يرجى تحديد / إنشاء حساب (دفتر الأستاذ) للنوع - {0},
 Please login as another user to register on Marketplace,الرجاء تسجيل الدخول كمستخدم آخر للتسجيل في Marketplace,
 Please make sure you really want to delete all the transactions for this company. Your master data will remain as it is. This action cannot be undone.,يرجى التأكد من أنك تريد حقا حذف جميع المعاملات لهذه الشركة. ستبقى بياناتك الرئيسية (الماستر) كما هيا. لا يمكن التراجع عن هذا الإجراء.,
-Please mention Basic and HRA component in Company,يرجى ذكر المكون الأساسي وحساب الموارد البشرية في الشركة,
-Please mention Round Off Account in Company,يرجى ذكر حساب التقريب في الشركة,
-Please mention Round Off Cost Center in Company,يرجى ذكر مركز التكلفة الخاص بالتقريب في الشركة,
+Please mention Basic and HRA component in Company,يرجى ذكر المكون الأساسي وحساب الموارد البشرية في الوزارة,
+Please mention Round Off Account in Company,يرجى ذكر حساب التقريب في الوزارة,
+Please mention Round Off Cost Center in Company,يرجى ذكر مركز التكلفة الخاص بالتقريب في الوزارة,
 Please mention no of visits required,يرجى ذكر عدد الزيارات المطلوبة\n<br>\nPlease mention no of visits required,
 Please mention the Lead Name in Lead {0},يرجى ذكر الاسم الرائد في العميل {0},
 Please pull items from Delivery Note,الرجاء سحب البنود من مذكرة التسليم\n<br>\nPlease pull items from Delivery Note,
-Please register the SIREN number in the company information file,يرجى تسجيل رقم سيرين في ملف معلومات الشركة,
+Please register the SIREN number in the company information file,يرجى تسجيل رقم سيرين في ملف معلومات الوزارة,
 Please remove this Invoice {0} from C-Form {1},الرجاء إزالة الفاتورة {0} من النموذج C {1}\n<br>\nPlease remove this Invoice {0} from C-Form {1},
 Please save the patient first,يرجى حفظ المريض أولا,
 Please save the report again to rebuild or update,يرجى حفظ التقرير مرة أخرى لإعادة البناء أو التحديث,
@@ -9579,7 +9579,7 @@ Please select Start Date and End Date for Item {0},الرجاء تحديد تا�
 Please select Student Admission which is mandatory for the paid student applicant,يرجى اختيار قبول الطالب الذي هو إلزامي للمتقدم طالب طالب,
 Please select a BOM,يرجى تحديد بوم,
 Please select a Batch for Item {0}. Unable to find a single batch that fulfills this requirement,الرجاء تحديد دفعة للعنصر {0}. تعذر العثور على دفعة واحدة تستوفي هذا المطلب,
-Please select a Company,الرجاء اختيار الشركة,
+Please select a Company,الرجاء اختيار الوزارة,
 Please select a batch,يرجى تحديد دفعة,
 Please select a csv file,يرجى اختيار ملف CSV,
 Please select a field to edit from numpad,الرجاء تحديد حقل لتعديله من المفكرة,
@@ -9593,7 +9593,7 @@ Please select date,يرجى تحديد التاريخ,
 Please select item code,الرجاء تحديد رمز البند\n<br>\nPlease select item code,
 Please select month and year,الرجاء اختيار الشهر والسنة,
 Please select prefix first,الرجاء اختيار البادئة اولا,
-Please select the Company,يرجى تحديد الشركة,
+Please select the Company,يرجى تحديد الوزارة,
 Please select the Multiple Tier Program type for more than one collection rules.,يرجى تحديد نوع البرنامج متعدد الطبقات لأكثر من قواعد مجموعة واحدة.,
 Please select the assessment group other than 'All Assessment Groups',يرجى اختيار مجموعة التقييم بخلاف &quot;جميع مجموعات التقييم&quot;,
 Please select the document type first,يرجى تحديد نوع الوثيقة أولاً,
@@ -9605,7 +9605,7 @@ Please set 'Asset Depreciation Cost Center' in Company {0},"يرجى تحديد 
 Please set 'Gain/Loss Account on Asset Disposal' in Company {0},"يرجى تحديد ""احساب لربح / الخسارة عند التخلص من الأصول"" للشركة {0}",
 Please set Account in Warehouse {0} or Default Inventory Account in Company {1},يرجى تعيين Account in Warehouse {0} أو Account Inventory Account in Company {1},
 Please set B2C Limit in GST Settings.,الرجاء تعيين حد B2C في إعدادات غست.,
-Please set Company,يرجى تعيين الشركة,
+Please set Company,يرجى تعيين الوزارة,
 Please set Company filter blank if Group By is 'Company',الرجاء تعيين فلتر الشركة فارغا إذا كانت المجموعة بي هي &#39;كومباني&#39;,
 Please set Default Payroll Payable Account in Company {0},الرجاء تحديد الحساب افتراضي لدفع الرواتب في الشركة {0},
 Please set Depreciation related Accounts in Asset Category {0} or Company {1},يرجى تحديد الحسابات المتعلقة بالاهلاك في فئة الأصول {0} أو الشركة {1},
@@ -9629,7 +9629,7 @@ Please set default {0} in Company {1},يرجى تعيين {0} الافتراضي
 Please set filter based on Item or Warehouse,يرجى ضبط الفلتر على أساس البند أو المخزن,
 Please set leave policy for employee {0} in Employee / Grade record,يرجى وضع سياسة الإجازة للموظف {0} في سجل الموظف / الدرجة,
 Please set recurring after saving,يرجى تحديد (تكرار) بعد الحفظ,
-Please set the Company,يرجى تعيين الشركة,
+Please set the Company,يرجى تعيين الوزارة,
 Please set the Customer Address,يرجى ضبط عنوان العميل,
 Please set the Date Of Joining for employee {0},يرجى تحديد تاريخ الالتحاق بالموظف {0},
 Please set the Default Cost Center in {0} company.,يرجى تعيين مركز التكلفة الافتراضي في الشركة {0}.,
@@ -9640,12 +9640,12 @@ Please set the series to be used.,يرجى ضبط المسلسل ليتم است
 Please set {0} for address {1},يرجى ضبط {0} للعنوان {1},
 Please setup Students under Student Groups,يرجى إعداد الطلاب تحت مجموعات الطلاب,
 Please share your feedback to the training by clicking on 'Training Feedback' and then 'New',يرجى حصة ملاحظاتك للتدريب من خلال النقر على &quot;التدريب ردود الفعل&quot; ثم &quot;جديد&quot;,
-Please specify Company,يرجى تحديد شركة,
+Please specify Company,يرجى تحديد الوزارة,
 Please specify Company to proceed,الرجاء تحديد الشركة للمضى قدما\n<br>\nPlease specify Company to proceed,
 Please specify a valid 'From Case No.',"يرجى تحديد صالح ""من رقم الحالة""\n<br>\nPlease specify a valid 'From Case No.'",
 Please specify a valid Row ID for row {0} in table {1},يرجى تحديد هوية الصف صالحة لصف {0} في الجدول {1},
 Please specify at least one attribute in the Attributes table,يرجى تحديد خاصية واحدة على الأقل في جدول (الخاصيات),
-Please specify currency in Company,يرجى تحديد العملة للشركة,
+Please specify currency in Company,يرجى تحديد العملة للوزارة,
 Please specify either Quantity or Valuation Rate or both,يرجى تحديد الكمية أو التقييم إما قيم أو كليهما,
 Please specify from/to range,يرجى التحديد من / إلى النطاق\n<br>\nPlease specify from/to range,
 Please supply the specified items at the best possible rates,يرجى تزويدنا بالبنود المحددة بأفضل الأسعار الممكنة,
@@ -10126,8 +10126,8 @@ Select BOM and Qty for Production,اختر فاتورة المواد و الكم
 Select Batch,حدد الدفعة,
 Select Batch Numbers,حدد أرقام الدفعة,
 Select Brand...,اختر الماركة ...,
-Select Company,حدد الشركة,
-Select Company...,حدد الشركة ...,
+Select Company,حدد الوزارة,
+Select Company...,حدد الوزارة ...,
 Select Customer,حدد العميل,
 Select Days,حدد أيام,
 Select Default Supplier,حدد الافتراضي مزود,
@@ -10221,7 +10221,7 @@ Setting up Email,إعداد البريد الإلكتروني,
 Setting up Email Account,إعداد حساب بريد إلكتروني,
 Setting up Employees,إعداد الموظفين,
 Setting up Taxes,إعداد الضرائب,
-Setting up company,تأسيس شركة,
+Setting up company,تأسيس الوزارة,
 Settings,إعدادات,
 "Settings for online shopping cart such as shipping rules, price list etc.",إعدادات عربة التسوق مثل قواعد الشحن، وقائمة الأسعار الخ,
 Settings for website homepage,إعدادات موقعه الإلكتروني,
@@ -10501,7 +10501,7 @@ The payment gateway account in plan {0} is different from the payment gateway ac
 The selected BOMs are not for the same item,قواائم المواد المحددة ليست لنفس البند,
 The selected item cannot have Batch,العنصر المحدد لا يمكن أن يكون دفعة,
 The seller and the buyer cannot be the same,البائع والمشتري لا يمكن أن يكون هو نفسه,
-The shareholder does not belong to this company,لا ينتمي المساهم إلى هذه الشركة,
+The shareholder does not belong to this company,لا ينتمي المساهم إلى هذه الوزارة,
 The shares already exist,الأسهم موجودة بالفعل,
 The shares don't exist with the {0},الأسهم غير موجودة مع {0},
 "The task has been enqueued as a background job. In case there is any issue on processing in background, the system will add a comment about the error on this Stock Reconciliation and revert to the Draft stage",وقد تم إرساء المهمة كعمل خلفية. في حالة وجود أي مشكلة في المعالجة في الخلفية ، سيقوم النظام بإضافة تعليق حول الخطأ في تسوية المخزون هذا والعودة إلى مرحلة المسودة,
@@ -10667,7 +10667,7 @@ Transaction currency must be same as Payment Gateway currency,يجب أن تكو
 Transaction not allowed against stopped Work Order {0},المعاملة غير مسموح بها في مقابل أمر العمل المتوقف {0},
 Transaction reference no {0} dated {1},إشارة عملية لا {0} بتاريخ {1},
 Transactions,المعاملات,
-Transactions can only be deleted by the creator of the Company,لا يمكن حذف المعاملات من قبل خالق الشركة,
+Transactions can only be deleted by the creator of the Company,لا يمكن حذف المعاملات من قبل خالق الوزارة,
 Transfer,نقل,
 Transfer Material,نقل المواد,
 Transfer Type,نوع النقل,
@@ -11195,7 +11195,7 @@ Click on the link below to verify your email and confirm the appointment,انق�
 Close,أغلق,
 Communication,الاتصالات,
 Compact Item Print,مدمجة البند طباعة,
-Company,شركة,
+Company,وزارة,
 Company of asset {0} and purchase document {1} doesn't matches.,شركة الأصل {0} ومستند الشراء {1} غير متطابقين.,
 Compare BOMs for changes in Raw Materials and Operations,قارن BOMs للتغييرات في المواد الخام والعمليات,
 Compare List function takes on list arguments,تأخذ وظيفة قائمة المقارنة قائمة الوسائط,
@@ -11561,7 +11561,7 @@ Search results for,نتائج البحث عن,
 Select All,تحديد الكل,
 Select Difference Account,حدد حساب الفرق,
 Select a Default Priority.,حدد أولوية افتراضية.,
-Select a company,اختر شركة,
+Select a company,اختر الوزارة,
 Select finance book for the item {0} at row {1},حدد دفتر تمويل للعنصر {0} في الصف {1},
 Select only one Priority as Default.,حدد أولوية واحدة فقط كإعداد افتراضي.,
 Seller Information,معلومات البائع,
@@ -11710,7 +11710,7 @@ woocommerce - {0},woocommerce - {0},
 {0} bank transaction(s) created and {1} errors,{0} تم إنشاء معاملة (معاملات) مصرفية وأخطاء {1},
 {0} can not be greater than {1},{0} لا يمكن أن يكون أكبر من {1},
 {0} conversations,{0} محادثات,
-{0} is not a company bank account,{0} ليس حسابًا مصرفيًا للشركة,
+{0} is not a company bank account,{0} ليس حسابًا مصرفيًا للوزارة,
 {0} is not a group node. Please select a group node as parent cost center,{0} ليست عقدة مجموعة. يرجى تحديد عقدة المجموعة كمركز تكلفة الأصل,
 {0} is not the default supplier for any items.,{0} ليس المورد الافتراضي لأية عناصر.,
 {0} is required,{0} مطلوب,
@@ -12072,10 +12072,10 @@ Contact HTML,الاتصال HTML,
 Data Import Configuration,تكوين استيراد البيانات,
 Bank Transaction Mapping,رسم المعاملات المصرفية,
 Plaid Access Token,منقوشة رمز الوصول,
-Company Account,حساب الشركة,
+Company Account,حساب الوزارة,
 Account Subtype,نوع الحساب الفرعي,
 Is Default Account,هو الحساب الافتراضي,
-Is Company Account,هو حساب الشركة,
+Is Company Account,هو حساب الوزارة,
 Party Details,تفاصيل الحزب,
 Account Details,تفاصيل الحساب,
 IBAN,رقم الحساب البنكي,
@@ -12257,7 +12257,7 @@ Year End Date,تاريخ نهاية العام,
 Companies,شركات,
 Auto Created,إنشاء تلقائي,
 Stock User,عضو المخزن,
-Fiscal Year Company,السنة المالية للشركة,
+Fiscal Year Company,السنة المالية للوزارة,
 Debit Amount,مبلغ مدين,
 Credit Amount,مبلغ دائن,
 Debit Amount in Account Currency,المبلغ المدين بعملة الحساب,
@@ -12284,7 +12284,7 @@ Item Tax Template,قالب الضريبة البند,
 Tax Rates,معدلات الضريبة,
 Item Tax Template Detail,البند قالب الضريبة التفاصيل,
 Entry Type,نوع الدخول,
-Inter Company Journal Entry,الدخول المشترك بين الشركة,
+Inter Company Journal Entry,الدخول المشترك بين الوزارة,
 Bank Entry,حركة بنكية,
 Cash Entry,الدخول النقدية,
 Credit Card Entry,إدخال بطاقة إئتمان,
@@ -12367,7 +12367,7 @@ Internal Transfer,نقل داخلي,
 Payment Order Status,حالة طلب الدفع,
 Payment Ordered,دفع أمر,
 Payment From / To,الدفع من / إلى,
-Company Bank Account,حساب بنك الشركة,
+Company Bank Account,حساب بنك الوزارة,
 Party Bank Account,حساب بنك الحزب,
 Account Paid From,حساب مدفوع من,
 Account Paid To,حساب مدفوع ل,
@@ -12445,7 +12445,7 @@ Closing Account Head,اقفال حساب المركز الرئيسي,
 POS Customer Group,مجموعة عملاء نقطة البيع,
 POS Field,نقاط البيع الميدانية,
 POS Item Group,مجموعة المواد لنقطة البيع,
-Company Address,عنوان الشركة,
+Company Address,عنوان الوزارة,
 Update Stock,تحديث المخزون,
 Ignore Pricing Rule,تجاهل (قاعدة التسعير),
 Applicable for Users,ينطبق على المستخدمين,
@@ -12649,7 +12649,7 @@ Customer's Purchase Order,طلب شراء الزبون,
 Customer's Purchase Order Date,تاريخ امر الشراء العميل,
 Customer Address,عنوان العميل,
 Shipping Address Name,الشحن العنوان الاسم,
-Company Address Name,اسم عنوان الشركة,
+Company Address Name,اسم عنوان الوزارة,
 Rate at which Customer Currency is converted to customer's base currency,المعدل الذي يتم تحويل العملة إلى عملة الأساس العملاء العميل,
 Rate at which Price list currency is converted to customer's base currency,المعدل الذي يتم تحويل سعر العملة العملة الأساسية القائمة لالعملاء,
 Set Source Warehouse,تعيين المخزن المصدر,
@@ -12713,7 +12713,7 @@ Parenttype,Parenttype,
 * Will be calculated in the transaction.,* سيتم احتسابه في المعاملة.,
 From No,من رقم,
 To No,إلى لا,
-Is Company,هي الشركة,
+Is Company,هي الوزارة,
 Current State,الوضع الحالي,
 Purchased,اشترى,
 From Shareholder,من المساهم,
@@ -13055,7 +13055,7 @@ Name and Type,اسم ونوع,
 SUP-.YYYY.-,SUP-.YYYY.-,
 Default Bank Account,حساب المصرف الافتراضي,
 Is Transporter,هو الناقل,
-Represents Company,يمثل الشركة,
+Represents Company,يمثل الوزارة,
 Supplier Type,المورد نوع,
 Allow Purchase Invoice Creation Without Purchase Order,السماح بإنشاء فاتورة الشراء بدون أمر شراء,
 Allow Purchase Invoice Creation Without Purchase Receipt,السماح بإنشاء فاتورة الشراء بدون إيصال الشراء,
@@ -13076,7 +13076,7 @@ Statutory info and other general information about your Supplier,معلومات 
 PUR-SQTN-.YYYY.-,PUR-SQTN-.YYYY.-,
 Supplier Address,عنوان المورد,
 Link to material requests,رابط لطلبات المادية,
-Rounding Adjustment (Company Currency,تعديل التقريب (عملة الشركة,
+Rounding Adjustment (Company Currency,تعديل التقريب (عملة الوزارة,
 Auto Repeat Section,تكرار تلقائي للقسم,
 Is Subcontracted,وتعاقد من الباطن,
 Lead Time in days,المهلة بالايام,
@@ -13227,7 +13227,7 @@ Request for Information,طلب المعلومات,
 Suggestions,اقتراحات,
 Blog Subscriber,مدونه المشترك,
 LinkedIn Settings,إعدادات LinkedIn,
-Company ID,هوية الشركة,
+Company ID,هوية الوزارة,
 OAuth Credentials,بيانات اعتماد OAuth,
 Consumer Key,مفتاح المستهلك,
 Consumer Secret,سر المستهلك,
@@ -13333,7 +13333,7 @@ Make Academic Term Mandatory,جعل الأكاديمي المدة إلزامية
 Skip User creation for new Student,تخطي إنشاء المستخدم للطالب الجديد,
 "By default, a new User is created for every new Student. If enabled, no new User will be created when a new Student is created.",افتراضيًا ، يتم إنشاء مستخدم جديد لكل طالب جديد. في حالة التمكين ، لن يتم إنشاء مستخدم جديد عند إنشاء طالب جديد.,
 Instructor Records to be created by,سجلات المعلم ليتم إنشاؤها من قبل,
-Employee Number,رقم الموظف,
+Employee Number, الرقم الوضيفي,
 Fee Category,فئة الرسوم,
 Fee Component,مكون رسوم,
 Fees Category,فئة الرسوم,
@@ -17411,4 +17411,5 @@ No activities to show,لا توجد أنشطة لعرضها
 Connections,روابط
 Basic Info,معلومات أساسية
 First Day of the Week,اول يوم من الاسبوع
+Job number,الرقم الوظيفي
 Disable Document Sharing,تعطيل مشاركة المستندات
