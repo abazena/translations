@@ -898,7 +898,7 @@ Item Tax Amount Included in Value,البند ضريبة المبلغ المدر�
 						Please enter a valid Invoice","الصف {0}: الفاتورة {1} غير صالحة ، فقد يتم إلغاؤها / غير موجودة. \ الرجاء إدخال فاتورة صالحة"
 Subscription Plan,خطة الاشتراك
 Blood Group,فصيلة الدم
-Masters,سادة
+Masters,إدارة
 Crop Spacing UOM,تباعد المحاصيل UOM
 Explore,يكتشف
 "{0} vacancies and {1} budget for {2} already planned for subsidiary companies of {3}. \
@@ -17373,6 +17373,7 @@ Creating Purchase Order ...,إنشاء أمر شراء ...,
 Row #{}: You must select {} serial numbers for item {}.,الصف # {}: يجب تحديد {} الأرقام التسلسلية للعنصر {}.,
 Quick Access, اختصاراتك
 Masters & Reports, الادارة والتقارير
+Reports & Masters, الادارة والتقارير
 Unit of Measure (UOM), وحدات القياس
 Incorrect Data Report, تقارير البيانات الغير صحيحة
 Warehouse wise Stock Value,قيمة مخزون المستودعات
