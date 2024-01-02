@@ -8472,7 +8472,7 @@ Employee {0} of grade {1} have no default leave policy,ليس لدى الموظ�
 Employee {0} on Half day on {1},الموظف {0} لديه اجازة نصف يوم في {1},
 Enable,تمكين,
 Enable / disable currencies.,تمكين / تعطيل العملات .,
-Enabled,تمكين,
+Enabled,متوفر,
 "Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart",تمكين &quot;استخدام لسلة التسوق، كما تم تمكين سلة التسوق وأن يكون هناك واحد على الأقل القاعدة الضريبية لسلة التسوق,
 End Date,نهاية التاريخ,
 End Date can not be less than Start Date,تاريخ النهاية لا يمكن أن يكون اقل من تاريخ البدء\n<br>\nEnd Date can not be less than Start Date,
@@ -17393,7 +17393,6 @@ My Profile, حسابي
 My Settings, الاعدادات
 Toggle Theme, تبديل الشكل
 Toggle Full Width, تبديل الشاشة
-Leave policy assignment,سياسة الاجازات
 Employees Working on a Holiday,الموظفين الذين يعملون في أيام العطل
 Interview Type,نوع المقابلة
 Interview Round,جولة المقابلة
@@ -17417,3 +17416,4 @@ Job number,الرقم الوظيفي
 Disable Document Sharing,تعطيل مشاركة المستندات
 Elements,عناصر
 Items & Pricing,العناصر والاسعار
+Leave policy assignment,سياسة الاجازات
