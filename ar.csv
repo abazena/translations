@@ -362,7 +362,7 @@ Appointments,تعيينات
 Asset {0} created,تم إنشاء الأصل {0}
 Please enter Planned Qty for Item {0} at row {1},الرجاء إدخال الكمية المخططة للعنصر {0} في الصف {1}
 Select Batch,اختر دفعة
-Item Description,وصف السلعة
+Item Description,وصف العنصر
 Account Name,أسم الحساب
 Please enter API Consumer Key,الرجاء إدخال مفتاح عميل الواجههة البرمجية
 Products per Page,المنتجات لكل صفحة
@@ -1468,7 +1468,7 @@ Score,أحرز هدفا
 Driver Name,اسم السائق
 Please select Incharge Person's name,يرجى تحديد اسم الشخص المسؤول
 Training,تدريب
-Stock Reports,تقارير الأسهم
+Stock Reports,تقارير المخزون
 Conversion factor for default Unit of Measure must be 1 in row {0},يجب أن يكون معامل التحويل لوحدة القياس الافتراضية 1 في الصف {0}
 Course Scheduling Tool,أداة جدولة الدورة
 Finished Goods,السلع تامة الصنع
@@ -3906,7 +3906,7 @@ Valuation and Total,التقييم والإجمالي
 Member Activity,نشاط العضو
 Import Attendance,استيراد الحضور
 Account for Change Amount,حساب لمبلغ التغيير
-Item Price Stock,سعر السلعة
+Item Price Stock,سعر العنصر
 ACC-ASS-.YYYY.-,ACC-ASS-.YYYY.-
 "Request for Quotation is disabled to access from portal, for more check portal settings.","تم تعطيل طلب عرض الأسعار للوصول من البوابة ، لمزيد من التحقق من إعدادات موقع البوابة."
 Mapped Header,رأس المعين
@@ -6444,7 +6444,7 @@ Creation Date,تاريخ الإنشاء
 Finished Good,انتهى جيد
 Manage Sample Collection,إدارة جمع العينات
 Unable to find DocType {0},غير قادر على العثور على DocType {0}
-Item Weight Details,تفاصيل وزن السلعة
+Item Weight Details,تفاصيل وزن العنصر
 Modes of Payment,طرق الدفع
 Series List for this Transaction,قائمة سلسلة لهذه الصفقة
 Produce,إنتاج
@@ -8871,7 +8871,7 @@ Issue Material,قضية المواد,
 Issued,نشر,
 Issues,قضايا,
 It is needed to fetch Item Details.,هناك حاجة لجلب تفاصيل البند.,
-Item,السلعة,
+Item,العنصر,
 Item 1,صنف رقم 1,
 Item 2,صنف رقم 2,
 Item 3,صنف رقم 3,
@@ -8924,7 +8924,7 @@ Item {0}: Ordered qty {1} cannot be less than minimum order qty {2} (defined in 
 Item: {0} does not exist in the system,الصنف: {0} غير موجود في النظام,
 Items,الاصناف,
 Items Filter,تصفية الاصناف,
-Items and Pricing,السلع والتسعيرات,
+Items and Pricing,العناصر والتسعير
 Items for Raw Material Request,عناصر لطلب المواد الخام,
 Job Card,بطاقة عمل,
 Job Description,الوصف الوظيفي,
@@ -10168,7 +10168,7 @@ Send SMS,SMS أرسل رسالة,
 Send mass SMS to your contacts,إرسال SMS الشامل لجهات الاتصال الخاصة بك,
 Sensitivity,حساسية,
 Sent,أرسلت,
-Serial No and Batch,الرقم التسلسلي والدفعة,
+Serial No and Batch,الرقم التسلسلي والدفعات,
 Serial No is mandatory for Item {0},رقم التسلسلي إلزامي القطعة ل {0},
 Serial No {0} does not belong to Batch {1},المسلسل لا {0} لا ينتمي إلى الدفعة {1},
 Serial No {0} does not belong to Delivery Note {1},الرقم المتسلسل {0} لا ينتمي الى مذكرة تسليم {1}\n<br>\nSerial No {0} does not belong to Delivery Note {1},
@@ -11773,7 +11773,7 @@ For Default Supplier (Optional),للمورد الافتراضي (اختياري)
 From date cannot be greater than To date,(من تاريخ) لا يمكن أن يكون أكبر (الي التاريخ),
 Group by,المجموعة حسب,
 In stock,في المخزن,
-Item name,اسم السلعة,
+Item name,اسم العنصر,
 Loan amount is mandatory,مبلغ القرض إلزامي,
 Minimum Qty,الكمية الدنيا,
 More details,مزيد من التفاصيل,
@@ -12450,7 +12450,7 @@ Update Stock,تحديث المخزون,
 Ignore Pricing Rule,تجاهل (قاعدة التسعير),
 Applicable for Users,ينطبق على المستخدمين,
 Sales Invoice Payment,دفع فاتورة المبيعات,
-Item Groups,مجموعات السلعة,
+Item Groups,مجموعات العناصر,
 Only show Items from these Item Groups,فقط عرض العناصر من مجموعات العناصر هذه,
 Customer Groups,مجموعات العميل,
 Only show Customer of these Customer Groups,أظهر فقط عميل مجموعات العملاء هذه,
